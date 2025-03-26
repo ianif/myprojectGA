@@ -11,4 +11,4 @@ if __name__ == "__main__":  # This is important!
     args = parser.parse_args()
 
     result = calculate_sum(args.num1, args.num2)
-    print(f"The sum of {args.num1} and {args.num2} is: {result}") 
+    print(f"The sum of {args.num1} and {args.num2} is: {result}")
