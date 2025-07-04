@@ -1,3 +1,5 @@
+## ^^artemis_code^^
+
 import unittest
 from calculate_sum import calculate_sum
 
@@ -12,4 +14,4 @@ class TestCalculateSum(unittest.TestCase):
         self.assertEqual(calculate_sum(0, 0), 0)
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(verbosity=0)
