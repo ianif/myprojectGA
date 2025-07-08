@@ -1,5 +1,6 @@
 def calculate_sum(n):
     """
+       """
     Calculate the sum of numbers from 1 to n.
     
     Args:
